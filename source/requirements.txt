@@ -1,0 +1,4 @@
+flask>=2.2
+requests>=2.0
+selenium>=4.0
+webdriver-manager>=4.0
