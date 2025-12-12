@@ -1,0 +1,1 @@
+../Resources/instagram_scraper-0.9.12.py

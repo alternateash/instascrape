@@ -1,0 +1,1 @@
+../../../../Resources/selenium/webdriver/common/desired_capabilities.py
